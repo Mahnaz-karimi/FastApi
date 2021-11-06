@@ -4,12 +4,12 @@ Retrieves json in browser on 127.0.0.1:8000
 
 # To run the project
 
-unicorn main:app --reload  // main.py runs
+unicorn main:app --reload  
 
-# Requirments 
+# Requirements 
 
-pip3 install fastapi
-Pip3 install uvicorn
+- fastapi
+- uvicorn
 
 Or 
 - pip install -r requirements.txt
