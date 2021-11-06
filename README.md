@@ -11,3 +11,6 @@ unicorn main:app --reload  // main.py runs
 pip3 install fastapi
 Pip3 install uvicorn
 
+Or 
+- pip install -r requirements.txt
+
