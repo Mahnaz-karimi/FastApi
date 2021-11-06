@@ -6,8 +6,8 @@ Retrieves json in browser on 127.0.0.1:8000
 
 unicorn main:app --reload     
 
-### Requirments 
+### Requirements
 
-- pip3 install fastapi
-- Pip3 install uvicorn
+- fastapi
+- uvicorn
 
