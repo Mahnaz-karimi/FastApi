@@ -4,6 +4,7 @@ import datetime as dt
 from random import random
 from dataclasses import dataclass, field
 
+
 @dataclass
 class GlobalState:
     """Class for keeping track of global state"""
