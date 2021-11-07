@@ -8,6 +8,7 @@ uvicorn main:app --reload
 
 ### Requirements 
 
+- Python virtual environment
 - fastapi
 - uvicorn
 
