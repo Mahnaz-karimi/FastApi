@@ -15,3 +15,6 @@ uvicorn main:app --reload
 Or 
 - pip install -r requirements.txt
 
+
+## Json structure
+https://github.com/mahnazzzz/battleships.git
