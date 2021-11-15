@@ -18,7 +18,6 @@ Or
 
 ## Json structure
 
-![json Script](https://user-images.githubusercontent.com/72239384/141721871-ea5647ef-3d1a-4741-b8f2-dc8778af316d.PNG)
 
  {
   "valutaKurser": [
