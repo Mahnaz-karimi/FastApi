@@ -4,8 +4,7 @@ Retrieves json in browser on 127.0.0.1:8000
 
 ## To run the project
 
-uvicorn main:app --reload  
-
+python -m uvicorn main:app --reload
 ### Requirements 
 
 - Python virtual environment
